@@ -1,0 +1,4 @@
+Deer	8
+Lion	9
+Monkey	8
+Tiger	13
